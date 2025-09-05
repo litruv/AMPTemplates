@@ -1,5 +1,5 @@
 Meta.DisplayName=Wreckfest 2
-Meta.Description=
+Meta.Description=Wreckfest 2 Dedicated Server
 Meta.Arch=x86_64
 Meta.Author=Mates Media - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/1203190/Wreckfest_2/
@@ -10,8 +10,8 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=steam://connect/{ip}:{GenericModule.App.Ports.$SteamQueryPort}
-Meta.AppConfigId=8788724b-bc26-4f1f-862e-6270876a34df
-App.AdminMethod=STDIO
+Meta.AppConfigId=ceed3057-ef96-45f0-bb36-b114a947adae
+App.AdminMethod=PinballWizard
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=Wreckfest 2
